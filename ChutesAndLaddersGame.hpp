@@ -19,7 +19,7 @@
 using namespace std;
 
 // Default number of players - Number of team mates: 1
-const int MIN_NUMBER_OF_PLAYERS = 3;
+const int MIN_NUMBER_OF_PLAYERS = 1;
 
 class ChutesAndLaddersGame {
 public:
